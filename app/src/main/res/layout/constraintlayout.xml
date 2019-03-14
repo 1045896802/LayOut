@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="410dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="272dp"
+        android:background="#FF4040"
+        android:gravity="center"
+        android:text="VIOLET"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="172dp"
+        android:layout_marginTop="148dp"
+        android:background="#0000CD"
+        android:gravity="center"
+        android:text="INDIGO"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.547"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="172dp"
+        android:layout_marginTop="148dp"
+        android:background="#4876FF"
+        android:gravity="center"
+        android:text="BLUE"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="#FF4040"
+        android:gravity="center"
+        android:text="RED"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="#FF7F50"
+        android:gravity="center"
+        android:text="ORANGE"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="172dp" />
+
+    <TextView
+        android:id="@+id/TextView1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="#FF4040"
+        android:gravity="center"
+        android:text="RED"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="148dp"
+        android:background="#00FF00"
+        android:gravity="center"
+        android:text="GREEN"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="332dp"
+        android:background="#FFFF00"
+        android:gravity="center"
+        android:text="YELLOW"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
+
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout01"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:shrinkColumns="1"
+    android:stretchColumns="2">
+
+    <Button
+        android:id="@+id/Button1"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:background="#000000"
+        android:gravity="left"
+        android:text=" Open...                                                                                               Ctrl-O"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/Button2"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:background="#000000"
+        android:gravity="left"
+        android:text=" Save...                                                                                                Ctrl-S"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/Button3"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:background="#000000"
+        android:gravity="left"
+        android:text=" Save As...                                                                              Ctrl+Shift+S"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#FFFFFF"></View>
+
+    <Button
+        android:id="@+id/Button4"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:background="#000000"
+        android:gravity="left"
+        android:text=" Import..."
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/Button5"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:background="#000000"
+        android:gravity="left"
+        android:text=" Export...                                                                                           Ctrl+E"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#FFFFFF"></View>
+
+    <Button
+        android:id="@+id/Button6"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:background="#000000"
+        android:gravity="left"
+        android:text=" Quit"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF" />
+
+
+</TableLayout>
