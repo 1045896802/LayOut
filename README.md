@@ -499,5 +499,5 @@ https://developer.android.google.cn/guide/topics/ui/declaring-layout.html
   
   3.表格布局
   
-  ![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/1r.png)
+  ![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/3r.png)
 
