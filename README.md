@@ -487,7 +487,8 @@ https://developer.android.google.cn/guide/topics/ui/declaring-layout.html
 
     </TableLayout>
 
-  ##三. 实验结果及截图
+  ## 三. 实验结果及截图
+  
   1.线性布局
   
   ![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/1r.png)
