@@ -9,15 +9,15 @@ https://developer.android.google.cn/guide/topics/ui/declaring-layout.html
 
 3.利用线性布局实现如下页面
 
-![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/1y.png)
+![Image text](https://raw.githubusercontent.com/Maxyu-1045896802/Layout/master/img/1y.png)
 
 4.利用ConstraintLayout实现如下界面
 
-![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/2y.png)
+![Image text](https://raw.githubusercontent.com/Maxyu-1045896802/Layout/master/img/2y.png)
 
 5.利用表格布局实现如下界面
 
-![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/3y.png)
+![Image text](https://raw.githubusercontent.com/Maxyu-1045896802/Layout/master/img/3y.png)
 
 ## 二. 关键代码
 
@@ -491,13 +491,13 @@ https://developer.android.google.cn/guide/topics/ui/declaring-layout.html
   
   1.线性布局
   
-  ![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/1r.png)
+  ![Image text](https://raw.githubusercontent.com/Maxyu-1045896802/Layout/master/img/1r.png)
   
   2.约束布局
   
-  ![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/2r.png)
+  ![Image text](https://raw.githubusercontent.com/Maxyu-1045896802/Layout/master/img/2r.png)
   
   3.表格布局
   
-  ![Image text](https://raw.githubusercontent.com/1045896802/Layout/master/img/3r.png)
+  ![Image text](https://raw.githubusercontent.com/Maxyu-1045896802/Layout/master/img/3r.png)
 
